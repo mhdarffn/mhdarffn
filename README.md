@@ -1,6 +1,6 @@
 ### Hi there, I'm Ariffin 👋
 
-I am a fullstack developer focusing more in backend - currently working at Kestrl a company that offer an alternative to the conventional banking system with its secure deposits, instant access to funds and its innovative wealth tracking and growth methodology.
+I'm a **Fullstack Developer** with a deep passion for crafting efficient and reliable **backend systems**. While my heart lies in server-side logic and data management, I also enjoy bringing ideas to life on the frontend. I'm always eager to learn new technologies and improve my craft.
 
 ## I like
 

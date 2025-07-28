@@ -5,6 +5,9 @@ I'm a **Fullstack Developer** with a deep passion for crafting efficient and rel
 ## I like
 
 - Laravel
+- Nuxt
+- Shadcn
+- Tailwind CSS
 - Open-source, Terraform and AWS
 
 ### Connect with me
